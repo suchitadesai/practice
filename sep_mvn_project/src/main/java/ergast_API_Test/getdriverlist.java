@@ -23,7 +23,7 @@ public class getdriverlist {
 
 public void getdriverdetails() throws IOException {
 	
-		logger.trace("Entering application.");
+		logger.trace("Entering application SepaPayments.");
 		// logger.error("Didn't do it.");
 		 //logger.trace("Exiting application.");
 		
